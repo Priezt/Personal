@@ -1,0 +1,10 @@
+127.0.0.1       stat.youku.com
+127.0.0.1       static.lstat.youku.com
+127.0.0.1       static.atm.youku.com/crossdomain.xml
+127.0.0.1       valb.atm.youku.com
+127.0.0.1       valc.atm.youku.com
+127.0.0.1       valf.atm.youku.com
+127.0.0.1       valo.atm.youku.com
+127.0.0.1       valp.atm.youku.com
+127.0.0.1       vid.atm.youku.com
+127.0.0.1       walp.atm.youku.com

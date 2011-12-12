@@ -1,0 +1,6 @@
+127.0.0.1       pubstat.sandai.net
+127.0.0.1       mcfg.sandai.net
+127.0.0.1       biz5.sandai.net
+127.0.0.1       float.sandai.net
+127.0.0.1       recommend.xunlei.com
+127.0.0.1       cl.kankan.xunlei.com

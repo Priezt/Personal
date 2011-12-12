@@ -1,0 +1,7 @@
+127.0.0.1       adextensioncontrol.tudou.com
+127.0.0.1       adplay.tudou.com
+127.0.0.1       adcontrol.tudou.com
+127.0.0.1       iwstat.tudou.com
+127.0.0.1       nstat.tudou.com
+127.0.0.1       stat.tudou.com
+127.0.0.1       stats.tudou.com
