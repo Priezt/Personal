@@ -1,0 +1,1 @@
+powershell -sta -noprofile -command 'c:\scripts\_explain_rule.ps1 $false'

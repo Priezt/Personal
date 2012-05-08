@@ -1,0 +1,9 @@
+map <F12> :set! network.proxy.type=1<CR>:echo "Bastion Proxy On!"<CR>
+map <S-F12> :set! network.proxy.type=0<CR>:echo "Bastion Proxy Off."<CR>
+imap <C-p> <Esc><C-p>
+imap <C-n> <Esc><C-n>
+imap <C-o> <Esc><C-o>
+imap <C-f> <Right>
+imap <C-b> <Left>
+map <C-t> <C-c>thttp://www.mywot.com/en/scorecard/<C-v><CR>thttp://www.alexa.com/siteinfo/<C-v><CR>
+map <C-e> <Esc>thttp://case-dev5.soma.ironport.com:7710/spambox/msg/<C-v><CR>
